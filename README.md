@@ -18,6 +18,8 @@ When comparing the clusters output between the original and PCA data sets, the P
 
 # Reference List
 
+Holoviz. (2023). Composing Plots. HoloViz. Retrieved 12 May 2024 https://holoviz.org/tutorial/Composing_Plots.html
+
 University of Adelaide. (2024). UADEL-VIRT-DATA-PT-12-2023-U-LOLC. GitHub. retrieved 12 May 2024 https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/blob/main/19-Unsupervised-Learning/3/Activities/04-Stu-Energise_Your_Stock_Clustering/Solved/energise_your_stock_clustering_solution.ipynb?ref_type=heads
 
 OpenAI. (2024). ChatGPT [Computer software]. Retrieved 12 May 2024 (https://chat.openai.com/)
